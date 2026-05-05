@@ -3,7 +3,7 @@
 [![codecov](https://codecov.io/gh/Dracks/mr-scrooge/branch/main/graph/badge.svg)](https://codecov.io/gh/Dracks/mr-scrooge)
 [![CodeFactor](https://www.codefactor.io/repository/github/dracks/mr-scrooge/badge)](https://www.codefactor.io/repository/github/dracks/mr-scrooge)
 
-## File formats suported
+## File formats suported 
 Currently this application supports the following bank file formats:
 
 - Caixa Enginyers Account and Credit Card
